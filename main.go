@@ -19,7 +19,7 @@ var (
 func init() {
     templates = template.Must(template.ParseGlob("templates/*.html"))
     // Create a secure cookie store with a secret key
-    store = sessions.NewCookieStore([]byte("your-secret-key-here"))
+    store = sessions.NewCookieStore([]byte("#l|w8fpsTWq#ex='Ck1!6`$,69>{JMDMet"))
     store.Options = &sessions.Options{
         Path:     "/",
         MaxAge:   3600 * 24, // 24 hours
