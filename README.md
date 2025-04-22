@@ -1,6 +1,6 @@
 # Login Server
 
-A simple and secure Go web application that implements password-based authentication with session management.
+A simple and secure Go chi web application that implements password-based authentication with session management.
 
 ## Features
 
